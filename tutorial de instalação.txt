@@ -1,0 +1,2 @@
+para instalar todas as dependencias de uma só vez, uma ves que o PIP esta operante na sua máquina digite o seguinte
+comando "pip install -r dependencias.txt". assegure que o caminho do arquivo esteja especificado corretamente.
